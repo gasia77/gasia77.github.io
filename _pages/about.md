@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Rui Tang | 唐睿"
+title: "Rui Tang"
 author_profile: true
 redirect_from: 
   - /about/
