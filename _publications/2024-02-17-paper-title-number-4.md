@@ -9,7 +9,7 @@ softer surrogates at the cost of algorithmic complexity. In this work, we presen
 date: 2026-02-17
 venue: 'Published as an AAAI-26 oral paper'
 paperurl: 'https://openreview.net/pdf?id=3SyjcZuTFE'
-citation: 'Tianmeng Hu, Yongzheng Cui, Rui Tang, Biao Luo, Ke Li. (2026). &quot;Beyond Monotonicity: Revisiting Factorization Principles in Multi-Agent Q-Learning.&quot; <i>AAAI2026</i>. 1(3).'
+citation: 'Tianmeng Hu, Yongzheng Cui, Rui Tang, Biao Luo, Ke Li. (2026). &quot;Beyond Monotonicity: Revisiting Factorization Principles in Multi-Agent Q-Learning.&quot; <i>AAAI2026</i>.'
 ---
 
 
