@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
+date: 2026-02-17
 venue: 'Published as an AAAI-26 oral paper'
 paperurl: 'https://openreview.net/pdf?id=3SyjcZuTFE'
 citation: 'Tianmeng Hu, Yongzheng Cui, Rui Tang, Biao Luo, Ke Li. (2026). &quot;Beyond Monotonicity: Revisiting Factorization Principles in Multi-Agent Q-Learning.&quot; <i>AAAI2026</i>. 1(3).'
