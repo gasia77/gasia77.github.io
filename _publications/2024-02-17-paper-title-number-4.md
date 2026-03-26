@@ -3,14 +3,13 @@ title: "Beyond Monotonicity: Revisiting Factorization Principles in Multi-Agent 
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'Value decomposition is a central approach in multi-agent reinforcement learning (MARL), enabling centralized training with decentralized execution by factorizing the global value
+function into local values. To ensure individual-global-max (IGM) consistency, existing methods either enforce monotonicity constraints, which limit expressive power, or adopt
+softer surrogates at the cost of algorithmic complexity. In this work, we present a dynamical systems analysis of nonmonotonic value decomposition, modeling learning dynamics as continuous-time gradient flow. We prove that, under approximately greedy exploration, all zero-loss equilibria violating IGM consistency are unstable saddle points, while only IGM-consistent solutions are stable attractors of the learning dynamics. Extensive experiments on both synthetic matrix games and challenging MARL benchmarks demonstrate that unconstrained, non-monotonic factorization reliably recovers IGM-optimal solutions and consistently outperforms monotonic baselines. Additionally, we investigate the influence of temporal-difference targets and exploration strategies, providing actionable insights for the design of future valuebased MARL algorithms.'
 date: 2026-02-17
 venue: 'Published as an AAAI-26 oral paper'
 paperurl: 'https://openreview.net/pdf?id=3SyjcZuTFE'
 citation: 'Tianmeng Hu, Yongzheng Cui, Rui Tang, Biao Luo, Ke Li. (2026). &quot;Beyond Monotonicity: Revisiting Factorization Principles in Multi-Agent Q-Learning.&quot; <i>AAAI2026</i>. 1(3).'
 ---
 
-Value decomposition is a central approach in multi-agent reinforcement learning (MARL), enabling centralized training with decentralized execution by factorizing the global value
-function into local values. To ensure individual-global-max (IGM) consistency, existing methods either enforce monotonicity constraints, which limit expressive power, or adopt
-softer surrogates at the cost of algorithmic complexity. In this work, we present a dynamical systems analysis of nonmonotonic value decomposition, modeling learning dynamics as continuous-time gradient flow. We prove that, under approximately greedy exploration, all zero-loss equilibria violating IGM consistency are unstable saddle points, while only IGM-consistent solutions are stable attractors of the learning dynamics. Extensive experiments on both synthetic matrix games and challenging MARL benchmarks demonstrate that unconstrained, non-monotonic factorization reliably recovers IGM-optimal solutions and consistently outperforms monotonic baselines. Additionally, we investigate the influence of temporal-difference targets and exploration strategies, providing actionable insights for the design of future valuebased MARL algorithms.
 
