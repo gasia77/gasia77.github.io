@@ -23,7 +23,7 @@ repository               : "https://github.com/gasia77/gasia77.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "head1.png"
   name             : "Rui Tang| 唐睿"
   pronouns         : # example: "he/him"  
   bio              : "A RLer"
