@@ -7,7 +7,7 @@ excerpt: 'In cooperative Multi-Agent Reinforcement Learning (MARL), the subgroup
 date: 2026-02-17
 venue: 'AAAI-26 Poster'
 
-# paperurl: '[](https://openreview.net/pdf?id=PqVT9jkbdw)'
+# paperurl: '[(https://openreview.net/pdf?id=PqVT9jkbdw)](https://ojs.aaai.org/index.php/AAAI/article/download/39783/43744)'
 citation: 'Rui Tang, Biao Luo, Yongzheng Cui.  &quot; Autonomous Partner Selection for Cooperative Multi-Agent Reinforcement Learning&quot; (2026).'
 ---
 
